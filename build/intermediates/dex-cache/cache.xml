@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Penta Segmenta\app\libs\GoogleAdMobAdsSdk-6.4.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6262c554ef5744538d526465aa73704810705734">
+        <dex dex="C:\Users\Inexis\StudioProjects\Penta Segmenta\app\build\intermediates\pre-dexed\debug\GoogleAdMobAdsSdk-6.4.1_3ef692e463cc3b5e4c54963b99d83bb3700da72e.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Inexis\StudioProjects\Penta Segmenta\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_03d2a791fc6935636cde8425c513df13c348b3d3.jar" />
+    </item>
+
+</items>

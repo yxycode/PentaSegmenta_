@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Penta Segmenta\\app\\build\\intermediates\\res\\merged\\debug\\raw\\push.ogg",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Penta Segmenta\\app\\src\\main\\res\\raw\\push.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Penta Segmenta\\app\\build\\intermediates\\res\\merged\\debug\\raw\\scatter.ogg",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Penta Segmenta\\app\\src\\main\\res\\raw\\scatter.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Penta Segmenta\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bip.ogg",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Penta Segmenta\\app\\src\\main\\res\\raw\\bip.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Penta Segmenta\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beam.ogg",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Penta Segmenta\\app\\src\\main\\res\\raw\\beam.ogg"
+    }
+]
